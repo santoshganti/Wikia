@@ -1,0 +1,13 @@
+!1 Step 1: 
+
+Goto Eclipse -> Help -> Install New Software
+ 
+!img /files/codecoverage/CodeCoverage2.PNG
+
+
+!1 Step 2: 
+
+A window will open, now click on "Add" and give the name "Eclemma"(because that is the name of the code coverage tool we use) and in the Location bar, copy paste the following link  http://update.eclemma.org/ . 
+Install this software by selecting and follow the on screen instructions.
+
+!img /files/codecoverage/CodeCoverage.PNG

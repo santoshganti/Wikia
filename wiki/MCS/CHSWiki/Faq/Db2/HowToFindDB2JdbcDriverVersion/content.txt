@@ -1,0 +1,4 @@
+java -cp ./db2jcc4.jar com.ibm.db2.jcc.DB2Jcc -version
+
+Example output
+IBM Data Server Driver for JDBC and SQLJ 4.16.53

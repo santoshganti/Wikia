@@ -1,0 +1,8 @@
+vi /etc/sysconfig/network
+
+add following lines
+NETWORKING=yes
+HOSTNAME=bolt
+
+
+Oracle 7 users have to change /etc/hostname

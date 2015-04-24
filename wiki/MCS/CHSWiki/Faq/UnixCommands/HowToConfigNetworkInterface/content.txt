@@ -1,0 +1,10 @@
+first find out your network interfaces
+
+ip addr show
+
+Say you want to configure enp0s3:
+
+cd /etc/sysconfig/network-scripts
+vi ifcfg-enp0s3
+
+Ensure ONBOOT is yes.
