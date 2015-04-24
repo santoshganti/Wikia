@@ -25,11 +25,22 @@ Select the amount of RAM you want to allocate to this virtual machine. I suggest
 
 !1 Step 6: Virtual Hard Drive
 
+If you have never created virtual machines before you will want to create a new Hard disk. It essentially creates a new virtual folder and calls it a virtual hard drive. All the virtual machines data is stored in that folder.
+You can reuse a previously created hard disk as well, but stick to the recommended settings. 
+
 !img /files/vb/vb4.png
+
+I chose to create a VMDK type hard disk because it can be ported to VMWare Workstation/Fusion as well. VMware is another popular virtual machine software(hypervisor). 
 
 !img /files/vb/vb5.png
 
+Choose dynamic allocation, its flexible for our project. However, you can explore other options as well.
+
 !img /files/vb/vb6.png
+
+Give a name to the virtual hard drive and select how much space you want to allocate. 
+
+NOTE: Virtual Machine name and Virtual Hard drive name aren't the same. You give a name to the hard disk so that you can reuse the hard disk in the future if need be. 
 
 !img /files/vb/vb7.png
 
