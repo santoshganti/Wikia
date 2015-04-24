@@ -47,28 +47,31 @@ NOTE: Virtual Machine name and Virtual Hard drive name aren't the same. You give
 
 !1 Step 7: Installing the OS on Virtual Machine
 
- * Power on the virtual machine
+Power on the virtual machine by clicking on the "Start" button above.
 
 !img /files/vb/vb8.png
 
 
- * Choose the iso of the OS or if you have inserted a DVD give the location of the dvd drive.
+Choose the iso of the OS or if you have inserted a DVD give the location of the dvd drive.
 
 !img /files/vb/vb9.png
 
- * Virtual Machine Starts
+Virtual Machine Starts and the first page is displayed and from now on you have to follow the on screen instructions to install the guest OS.
 
 !img /files/vb/vb10.png
 
- * Guest/Host Mouse integration
+!1 Step 8: Guest/Host Mouse integration - 
+
+Since guest OS and Host OS are different environments when you click on the virtual box window, the control will goto the guest OS and you need to press "Right Ctrl" to 
+give the control to the host OS again. By default the host key is "Right Ctrl" you can goto settings and change it to your convenience.  
 
 !img /files/vb/vb11.png
 
- * Oracle Installation page
+!1 Step 9: Oracle Installation page
 
 !img /files/vb/vb12.png
 
- * Creating a user and also setup a root password
+Creating a user and also setup a root password
 
 !img /files/vb/vb13.png
 

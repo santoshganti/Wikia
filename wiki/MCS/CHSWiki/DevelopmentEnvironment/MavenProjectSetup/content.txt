@@ -1,1 +1,39 @@
-!contents -R2 -g -p -f -h
+!1 Purpose: 
+
+This page walks through the step by step procedure to create a new java project using maven.
+
+!1 Procedure:
+
+!2 Step 1: Open your Eclipse IDE
+
+!2 Step 2: File -> New -> Other
+
+New Wizard opens. Type Maven and choose Maven Project. Click Next.
+
+!img /files/Maven/maven2.png
+
+!2 Step 3: Choose where to create the project
+
+Uncheck "Use default workspace location" and choose the directory location where you want to create the project. Ideally put it under a folder under Git control so that you can add to version control easily. Click Next.
+
+!img /files/Maven/maven3.png
+
+!img /files/Maven/maven4.png
+
+!2 Step 4: Choose maven archetype
+
+Select maven-archetype-quickstart or maven-archetype-webapp(for maven web projects) and click next.
+
+!img /files/Maven/maven5.png
+
+!2 Step 5: Step-5: Enter maven POM parameters
+
+!img /files/Maven/maven6.png
+
+ * Enter Group Id as edu.lab.algorithms (anything that is close to your project really)
+ * Enter Artefact Id as sorting(The actual Project name you want to give)
+
+Click Finish
+
+!img /files/Maven/maven7.png
+

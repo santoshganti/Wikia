@@ -1,1 +1,8 @@
-!contents -R2 -g -p -f -h
+Maven is a build tool from Apache. It is mainly used for dependency management in projects. 
+
+!1 Step 1: 
+
+In Eclipse, goto help -> install new software. A window opens enter this link http://download.eclipse.org/technology/m2e/releases. Click next and follow the on screen
+instructions and viola you have maven setup. 
+
+!img /files/Maven/maven1.png

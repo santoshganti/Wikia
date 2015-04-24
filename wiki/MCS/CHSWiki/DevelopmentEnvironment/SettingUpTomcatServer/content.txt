@@ -1,1 +1,28 @@
-!contents -R2 -g -p -f -h
+
+Apache Tomcat™ is an open source software implementation of the Java Servlet and !-JavaServer-! Pages technologies.
+
+!1 Step-1: Download Tomcat
+
+Goto this link [[Tomcat][http://tomcat.apache.org/download-70.cgi]] and download tomcat.
+
+!1 Step-2: Extract Tomcat
+
+Extract tomcat zip file into selected location in the file system.
+
+!1 Step-3: Setting up Environmental variables
+
+Goto PC Info -> Advanced System Settings -> Environmental Variables 
+
+Create a new variable and call it "CATALINA_HOME" and give the path to tomcat home folder. 
+
+!img /files/Tomcat/tomcat1.png
+
+Add the bin directory to the "PATH" variable. You can do that by "%CATALINA_HOME%\bin"
+
+!img /files/Tomcat/tomcat2.png
+
+!1 Step-4: Check Catalina
+
+Check to see if you can, as shown in the figure below, invoke by typing "catalina".
+
+!img /files/Tomcat/tomcat3.png 

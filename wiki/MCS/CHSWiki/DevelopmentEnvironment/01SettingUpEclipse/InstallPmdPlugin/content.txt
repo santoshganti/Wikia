@@ -1,1 +1,9 @@
-!contents -R2 -g -p -f -h
+PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, !-JavaScript-!, PLSQL, Apache Velocity, XML, XSL. 
+
+Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code in Java, C, C++, C#, PHP, Ruby, Fortran, !-JavaScript-!, PLSQL, Apache Velocity, Ruby, Scala, Objective C, Matlab, Python, Go. 
+
+!1 Step 1:
+
+In Eclipse, goto help -> install new software.  Enter the following link http://sourceforge.net/projects/pmd/files/pmd-eclipse/update-site/ and install "PMD 4 for eclispe". 
+
+!img /files/pmd/pmd1.png
